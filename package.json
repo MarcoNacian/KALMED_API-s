@@ -1,0 +1,27 @@
+{
+  "name": "apis",
+  "version": "1.0.0",
+  "description": "APIS for KalMed",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongodb": "^2.2.16"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoNacian/KALMED_API-s.git"
+  },
+  "author": "MarcoNacian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoNacian/KALMED_API-s/issues"
+  },
+  "homepage": "https://github.com/MarcoNacian/KALMED_API-s#readme"
+}
